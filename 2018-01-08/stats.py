@@ -1,5 +1,5 @@
 #    How to run doctest:
-#    python -m doctest -v first.py
+#    python -m doctest -v stats.py
 
 
 def add(num1, num2):
