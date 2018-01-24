@@ -1,0 +1,17 @@
+Supervised Learning:
+
+1) Linear Regression: Continuosu Values
+2) Logistic Regression: Discrete / Binary Classification
+3) Decision Trees:  Classification 
+        - Binary (0 | 1)
+        - Multi-Classification
+        - Parent Nodes
+        - Leaf Nodes
+
+4) Entropy - Randomness / Order / Chaos
+5) Information Gain - How much was learned from splitting the data.
+
+A decision tree stops making nodes with the entropy is 0.
+
+max_depth - use this parameter to determine which depth of the tree to go down to.
+
